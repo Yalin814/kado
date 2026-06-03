@@ -2,6 +2,7 @@ import { defineConfig, type UserConfigExport } from '@tarojs/cli'
 import TsconfigPathsPlugin from 'tsconfig-paths-webpack-plugin'
 import devConfig from './dev'
 import prodConfig from './prod'
+import path from 'path'
 
 // https://taro-docs.jd.com/docs/next/config#defineconfig-辅助函数
 export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
@@ -40,6 +41,10 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
             namingPattern: 'module', // 转换模式，取值为 global/module
             generateScopedName: '[name]__[local]___[hash:base64:5]'
           }
+        },
+        sass: {
+          // 关键配置：显式告知Sass编译器搜索路径
+          includePaths: [path.resolve(__dirname, '..', 'src')]
         }
       },
       webpackChain(chain) {
@@ -74,6 +79,10 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
             namingPattern: 'module', // 转换模式，取值为 global/module
             generateScopedName: '[name]__[local]___[hash:base64:5]'
           }
+        },
+        sass: {
+          // 关键配置：显式告知Sass编译器搜索路径
+          includePaths: [path.resolve(__dirname, '..', 'src')]
         }
       },
       webpackChain(chain) {
@@ -87,6 +96,10 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
           enable: false // 默认为 false，如需使用 css modules 功能，则设为 true
         }
       }
+    },
+    alias: {
+      // 将@映射到src根目录（注意路径必须用path.resolve处理）
+      '@': path.resolve(__dirname, '..', 'src')
     }
   }
 

@@ -1,0 +1,129 @@
+.index {
+  min-height: 100vh;
+  background: var(--bg-color);
+  padding: 32px 20px;
+}
+
+.grammar-container {
+  max-width: 680px;
+  margin: 0 auto;
+  background: var(--container-bg);
+  border-radius: 16px;
+  padding: 36px 28px;
+  box-shadow: 0 4px 16px var(--shadow-color);
+}
+
+/* Title Section */
+.grammar-title {
+  text-align: left;
+  margin-bottom: 32px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.title-text {
+  font-size: 56px;
+  font-weight: 500;
+  color: var(--text-color);
+  letter-spacing: 3px;
+}
+
+/* Section Styling */
+.grammar-section {
+  margin-bottom: 28px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.section-header {
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.section-label {
+  font-size: 32px; /* Increased from 24px */
+  font-weight: 700;
+  color: var(--secondary-text);
+  letter-spacing: 0.5px;
+}
+
+.section-content {
+  padding: 0;
+}
+
+.content-text {
+  font-size: 28px;
+  color: var(--section-text);
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.highlight {
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+/* Examples Section */
+.examples-list {
+  margin-top: 12px;
+}
+
+.example-item {
+  padding: 16px 0;
+  margin-bottom: 6px;
+  border-bottom: 1px solid var(--border-color);
+
+  &:last-child {
+    margin-bottom: 0;
+    border-bottom: none;
+  }
+}
+
+.example-japanese {
+  display: block;
+  font-size: 28px;
+  color: var(--example-jp);
+  line-height: 1.5;
+  margin-bottom: 6px;
+  font-weight: 500;
+}
+
+.example-chinese {
+  display: block;
+  font-size: 24px;
+  color: var(--example-cn);
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.navigation-buttons {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: var(--container-bg);
+  border-top: 1px solid var(--border-color);
+  z-index: 100;
+}
+
+.nav-button {
+  width: 48%;
+  font-size: 28px;
+  height: 80px;
+  line-height: 1.2; /* Reduced line height */
+}
+
+.grammar-container {
+  max-width: 680px;
+  margin: 0 auto;
+  background: var(--container-bg);
+  border-radius: 16px;
+  padding: 36px 28px 120px; /* Added bottom padding for button space */
+  box-shadow: 0 4px 16px var(--shadow-color);
+}

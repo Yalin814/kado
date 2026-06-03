@@ -1,0 +1,23 @@
+:root {
+  --bg-color: #f5f5f7;
+  --container-bg: #ffffff;
+  --text-color: #1a1a1a;
+  --secondary-text: #666666;
+  --section-text: #333333;
+  --example-jp: #1a1a1a;
+  --example-cn: #888888;
+  --border-color: #f0f0f0;
+  --shadow-color: rgba(0, 0, 0, 0.06);
+
+  .dark-mode {
+    --bg-color: #121212;
+    --container-bg: #1e1e1e;
+    --text-color: #e0e0e0;
+    --secondary-text: #aaaaaa;
+    --section-text: #e0e0e0;
+    --example-jp: #e0e0e0;
+    --example-cn: #aaaaaa;
+    --border-color: #333;
+    --shadow-color: rgba(0, 0, 0, 0.3);
+  }
+}
