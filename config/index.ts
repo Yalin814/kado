@@ -17,16 +17,11 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
     },
     sourceRoot: 'src',
     outputRoot: 'dist',
-    plugins: [
-      "@tarojs/plugin-generator"
-    ],
-    defineConstants: {
-    },
+    plugins: ['@tarojs/plugin-generator'],
+    defineConstants: {},
     copy: {
-      patterns: [
-      ],
-      options: {
-      }
+      patterns: [],
+      options: {}
     },
     framework: 'react',
     compiler: 'webpack5',
@@ -37,9 +32,7 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
       postcss: {
         pxtransform: {
           enable: true,
-          config: {
-
-          }
+          config: {}
         },
         cssModules: {
           enable: false, // 默认为 false，如需使用 css modules 功能，则设为 true
@@ -54,6 +47,7 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
       }
     },
     h5: {
+      esnextModules: [/@antmjs[\/]vantui/],
       publicPath: '/',
       staticDirectory: 'static',
       output: {
@@ -67,6 +61,10 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
       },
       postcss: {
         autoprefixer: {
+          enable: true,
+          config: {}
+        },
+        pxtransform: {
           enable: true,
           config: {}
         },
@@ -86,7 +84,7 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
       appName: 'taroDemo',
       postcss: {
         cssModules: {
-          enable: false, // 默认为 false，如需使用 css modules 功能，则设为 true
+          enable: false // 默认为 false，如需使用 css modules 功能，则设为 true
         }
       }
     }
