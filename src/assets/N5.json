@@ -1,0 +1,1389 @@
+[
+  {
+    "title": "～です（名詞肯定）",
+    "connectionRules": "名詞 + です",
+    "meaning": "名词的肯定表达",
+    "examples": [
+      {
+        "japanese": "私は学生です。",
+        "chinese": "我是学生。"
+      },
+      {
+        "japanese": "これは本です。",
+        "chinese": "这是书。"
+      },
+      {
+        "japanese": "彼は先生です。",
+        "chinese": "他是老师。"
+      }
+    ]
+  },
+  {
+    "title": "～じゃありません（名詞否定）",
+    "connectionRules": "名詞 + じゃ/では ありません",
+    "meaning": "名词的否定表达",
+    "examples": [
+      {
+        "japanese": "私は学生じゃありません。",
+        "chinese": "我不是学生。"
+      },
+      {
+        "japanese": "これは本じゃありません。",
+        "chinese": "这不是书。"
+      },
+      {
+        "japanese": "彼は先生じゃありません。",
+        "chinese": "他不是老师。"
+      }
+    ]
+  },
+  {
+    "title": "～ます（動詞肯定）",
+    "connectionRules": "动词ます形",
+    "meaning": "动词的肯定表达（敬体）",
+    "examples": [
+      {
+        "japanese": "毎日日本語を勉強します。",
+        "chinese": "每天学习日语。"
+      },
+      {
+        "japanese": "朝ごはんを食べます。",
+        "chinese": "吃早饭。"
+      },
+      {
+        "japanese": "電車で学校へ行きます。",
+        "chinese": "坐电车去学校。"
+      }
+    ]
+  },
+  {
+    "title": "～ません（動詞否定）",
+    "connectionRules": "动词ます形 + ません",
+    "meaning": "动词的否定表达",
+    "examples": [
+      {
+        "japanese": "タバコを吸いません。",
+        "chinese": "不抽烟。"
+      },
+      {
+        "japanese": "日曜日は働きません。",
+        "chinese": "星期天不工作。"
+      },
+      {
+        "japanese": "肉を食べません。",
+        "chinese": "不吃肉。"
+      }
+    ]
+  },
+  {
+    "title": "～いです（い形容詞肯定）",
+    "connectionRules": "い形容詞語幹 + いです",
+    "meaning": "い形容词的肯定表达",
+    "examples": [
+      {
+        "japanese": "このラーメンは美味しいです。",
+        "chinese": "这碗拉面很好吃。"
+      },
+      {
+        "japanese": "今日は暑いです。",
+        "chinese": "今天很热。"
+      },
+      {
+        "japanese": "この本は面白いです。",
+        "chinese": "这本书很有趣。"
+      }
+    ]
+  },
+  {
+    "title": "～くないです（い形容詞否定）",
+    "connectionRules": "い形容詞語幹 + くないです",
+    "meaning": "い形容词的否定表达",
+    "examples": [
+      {
+        "japanese": "このラーメンは美味しくないです。",
+        "chinese": "这碗拉面不好吃。"
+      },
+      {
+        "japanese": "今日は暑くないです。",
+        "chinese": "今天不热。"
+      },
+      {
+        "japanese": "この本は面白くないです。",
+        "chinese": "这本书不有趣。"
+      }
+    ]
+  },
+  {
+    "title": "～でした（名詞過去肯定）",
+    "connectionRules": "名詞 + でした",
+    "meaning": "名词的过去肯定表达",
+    "examples": [
+      {
+        "japanese": "昨日は日曜日でした。",
+        "chinese": "昨天是星期天。"
+      },
+      {
+        "japanese": "彼は昔、先生でした。",
+        "chinese": "他以前是老师。"
+      },
+      {
+        "japanese": "先週は雨でした。",
+        "chinese": "上周是雨天。"
+      }
+    ]
+  },
+  {
+    "title": "～じゃありませんでした（名詞過去否定）",
+    "connectionRules": "名詞 + じゃ/では ありませんでした",
+    "meaning": "名词的过去否定表达",
+    "examples": [
+      {
+        "japanese": "昨日は日曜日じゃありませんでした。",
+        "chinese": "昨天不是星期天。"
+      },
+      {
+        "japanese": "あれは私の傘じゃありませんでした。",
+        "chinese": "那不是我的伞。"
+      },
+      {
+        "japanese": "彼は学生じゃありませんでした。",
+        "chinese": "他以前不是学生。"
+      }
+    ]
+  },
+  {
+    "title": "～ました（動詞過去肯定）",
+    "connectionRules": "动词ます形 + ました",
+    "meaning": "动词的过去肯定表达",
+    "examples": [
+      {
+        "japanese": "昨日、映画を見ました。",
+        "chinese": "昨天看了电影。"
+      },
+      {
+        "japanese": "先週、京都へ行きました。",
+        "chinese": "上周去了京都。"
+      },
+      {
+        "japanese": "朝ごはんを食べました。",
+        "chinese": "吃了早饭。"
+      }
+    ]
+  },
+  {
+    "title": "～ませんでした（動詞過去否定）",
+    "connectionRules": "动词ます形 + ませんでした",
+    "meaning": "动词的过去否定表达",
+    "examples": [
+      {
+        "japanese": "昨日、勉強しませんでした。",
+        "chinese": "昨天没有学习。"
+      },
+      {
+        "japanese": "朝ごはんを食べませんでした。",
+        "chinese": "没吃早饭。"
+      },
+      {
+        "japanese": "日曜日は働きませんでした。",
+        "chinese": "星期天没工作。"
+      }
+    ]
+  },
+  {
+    "title": "～かったです（い形容詞過去肯定）",
+    "connectionRules": "い形容詞語幹 + かったです",
+    "meaning": "い形容词的过去肯定表达",
+    "examples": [
+      {
+        "japanese": "昨日はとても寒かったです。",
+        "chinese": "昨天很冷。"
+      },
+      {
+        "japanese": "あの映画は面白かったです。",
+        "chinese": "那部电影很有趣。"
+      },
+      {
+        "japanese": "旅行は楽しかったです。",
+        "chinese": "旅行很开心。"
+      }
+    ]
+  },
+  {
+    "title": "～くなかったです（い形容詞過去否定）",
+    "connectionRules": "い形容詞語幹 + くなかったです",
+    "meaning": "い形容词的过去否定表达",
+    "examples": [
+      {
+        "japanese": "昨日は寒くなかったです。",
+        "chinese": "昨天不冷。"
+      },
+      {
+        "japanese": "あの映画は面白くなかったです。",
+        "chinese": "那部电影不有趣。"
+      },
+      {
+        "japanese": "試験は難しくなかったです。",
+        "chinese": "考试不难。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「は」（主題）",
+    "connectionRules": "名詞 + は",
+    "meaning": "提示句子的主题",
+    "examples": [
+      {
+        "japanese": "私は田中です。",
+        "chinese": "我是田中。"
+      },
+      {
+        "japanese": "これは何ですか。",
+        "chinese": "这是什么？"
+      },
+      {
+        "japanese": "日本はきれいな国です。",
+        "chinese": "日本是个美丽的国家。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「も」（也）",
+    "connectionRules": "名詞 + も",
+    "meaning": "表示「也」的用法",
+    "examples": [
+      {
+        "japanese": "私も学生です。",
+        "chinese": "我也是学生。"
+      },
+      {
+        "japanese": "コーヒーも紅茶も好きです。",
+        "chinese": "咖啡和红茶都喜欢。"
+      },
+      {
+        "japanese": "田中さんも来ました。",
+        "chinese": "田中先生也来了。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「の」（所有格）",
+    "connectionRules": "名詞 + の + 名詞",
+    "meaning": "表示名词的所属、所有等关系",
+    "examples": [
+      {
+        "japanese": "これは私の本です。",
+        "chinese": "这是我的书。"
+      },
+      {
+        "japanese": "大学の先生に会いました。",
+        "chinese": "见了大学的老师。"
+      },
+      {
+        "japanese": "日本の文化に興味があります。",
+        "chinese": "对日本文化有兴趣。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「か」（疑問）",
+    "connectionRules": "句子 + か",
+    "meaning": "构成疑问句",
+    "examples": [
+      {
+        "japanese": "あなたは学生ですか。",
+        "chinese": "你是学生吗？"
+      },
+      {
+        "japanese": "これは本ですか。",
+        "chinese": "这是书吗？"
+      },
+      {
+        "japanese": "明日は休みですか。",
+        "chinese": "明天是休息吗？"
+      }
+    ]
+  },
+  {
+    "title": "助詞「に」（時間点）",
+    "connectionRules": "時間名詞 + に",
+    "meaning": "表示动作发生的时间点",
+    "examples": [
+      {
+        "japanese": "毎日七時に起きます。",
+        "chinese": "每天七点起床。"
+      },
+      {
+        "japanese": "三時に会いましょう。",
+        "chinese": "三点见吧。"
+      },
+      {
+        "japanese": "四月に日本へ行きます。",
+        "chinese": "四月去日本。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「へ」（移動方向）",
+    "connectionRules": "場所名詞 + へ",
+    "meaning": "表示移动的方向",
+    "examples": [
+      {
+        "japanese": "学校へ行きます。",
+        "chinese": "去学校。"
+      },
+      {
+        "japanese": "東京へ帰ります。",
+        "chinese": "回东京。"
+      },
+      {
+        "japanese": "図書館へ行きました。",
+        "chinese": "去了图书馆。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「で」（交通工具）",
+    "connectionRules": "交通工具名詞 + で",
+    "meaning": "表示移动所使用的交通工具",
+    "examples": [
+      {
+        "japanese": "電車で学校へ行きます。",
+        "chinese": "坐电车去学校。"
+      },
+      {
+        "japanese": "バスで帰ります。",
+        "chinese": "坐公交车回去。"
+      },
+      {
+        "japanese": "飛行機で日本へ行きました。",
+        "chinese": "坐飞机去了日本。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「と」（動作夥伴）",
+    "connectionRules": "人 + と",
+    "meaning": "表示共同进行动作的对象",
+    "examples": [
+      {
+        "japanese": "友達と映画を見ました。",
+        "chinese": "和朋友看了电影。"
+      },
+      {
+        "japanese": "家族と日本へ行きます。",
+        "chinese": "和家人去日本。"
+      },
+      {
+        "japanese": "誰と話していますか。",
+        "chinese": "在和谁说话？"
+      }
+    ]
+  },
+  {
+    "title": "～ませんか（邀請）",
+    "connectionRules": "动词ます形 + ませんか",
+    "meaning": "表示邀请或邀约",
+    "examples": [
+      {
+        "japanese": "一緒に映画を見ませんか。",
+        "chinese": "一起看电影好吗？"
+      },
+      {
+        "japanese": "コーヒーを飲みませんか。",
+        "chinese": "喝杯咖啡怎么样？"
+      },
+      {
+        "japanese": "日曜日に遊びに行きませんか。",
+        "chinese": "星期天一起去玩好吗？"
+      }
+    ]
+  },
+  {
+    "title": "～ましょう（提議・勸誘）",
+    "connectionRules": "动词ます形 + ましょう",
+    "meaning": "表示提议、劝诱",
+    "examples": [
+      {
+        "japanese": "一緒に行きましょう。",
+        "chinese": "一起去吧。"
+      },
+      {
+        "japanese": "そろそろ帰りましょう。",
+        "chinese": "差不多回去吧。"
+      },
+      {
+        "japanese": "ちょっと休みましょう。",
+        "chinese": "稍微休息一下吧。"
+      }
+    ]
+  },
+  {
+    "title": "～くなります／～になります（変化）",
+    "connectionRules": "い形容詞語幹 + くなります / 名詞/な形容詞語幹 + になります",
+    "meaning": "表示状态的自然变化",
+    "examples": [
+      {
+        "japanese": "寒くなりました。",
+        "chinese": "变冷了。"
+      },
+      {
+        "japanese": "日本語が上手になりました。",
+        "chinese": "日语变好了。"
+      },
+      {
+        "japanese": "彼女は医者になりました。",
+        "chinese": "她成为了医生。"
+      }
+    ]
+  },
+  {
+    "title": "～くします／～にします（意志変化）",
+    "connectionRules": "い形容詞語幹 + くします / 名詞/な形容詞語幹 + にします",
+    "meaning": "表示主观造成某种状态或做出决定",
+    "examples": [
+      {
+        "japanese": "部屋をきれいにします。",
+        "chinese": "把房间弄干净。"
+      },
+      {
+        "japanese": "髪を短くしました。",
+        "chinese": "把头发剪短了。"
+      },
+      {
+        "japanese": "コーヒーにします。",
+        "chinese": "我要咖啡。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「を」（受詞）",
+    "connectionRules": "名詞 + を + 他動詞",
+    "meaning": "表示他动词的动作对象（宾语）",
+    "examples": [
+      {
+        "japanese": "ご飯を食べます。",
+        "chinese": "吃饭。"
+      },
+      {
+        "japanese": "新聞を読みます。",
+        "chinese": "看报纸。"
+      },
+      {
+        "japanese": "水を飲みます。",
+        "chinese": "喝水。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「で」（動作地点）",
+    "connectionRules": "場所名詞 + で",
+    "meaning": "表示动作发生的场所",
+    "examples": [
+      {
+        "japanese": "図書館で勉強します。",
+        "chinese": "在图书馆学习。"
+      },
+      {
+        "japanese": "食堂で昼ご飯を食べました。",
+        "chinese": "在食堂吃了午饭。"
+      },
+      {
+        "japanese": "公園で遊びます。",
+        "chinese": "在公园玩。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「から」（起点）",
+    "connectionRules": "時間/場所名詞 + から",
+    "meaning": "表示时间或场所的起点",
+    "examples": [
+      {
+        "japanese": "授業は九時からです。",
+        "chinese": "从九点开始上课。"
+      },
+      {
+        "japanese": "東京から大阪まで新幹線で行きました。",
+        "chinese": "从东京坐新干线去了大阪。"
+      },
+      {
+        "japanese": "四月から日本語を勉強します。",
+        "chinese": "从四月开始学日语。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「まで」（終点）",
+    "connectionRules": "時間/場所名詞 + まで",
+    "meaning": "表示时间或场所的终点",
+    "examples": [
+      {
+        "japanese": "五時まで働きます。",
+        "chinese": "工作到五点。"
+      },
+      {
+        "japanese": "駅まで歩いて十分です。",
+        "chinese": "走到车站十分钟。"
+      },
+      {
+        "japanese": "明日まで待ってください。",
+        "chinese": "请等到明天。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「と」（並列）",
+    "connectionRules": "名詞 + と + 名詞",
+    "meaning": "名词的完全列举",
+    "examples": [
+      {
+        "japanese": "机の上に本と鉛筆があります。",
+        "chinese": "桌子上有书和铅笔。"
+      },
+      {
+        "japanese": "リンゴとバナナを買いました。",
+        "chinese": "买了苹果和香蕉。"
+      },
+      {
+        "japanese": "日本語と英語を勉強しています。",
+        "chinese": "正在学日语和英语。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「や」（部分列挙）",
+    "connectionRules": "名詞 + や + 名詞",
+    "meaning": "名词的部分列举",
+    "examples": [
+      {
+        "japanese": "机の上に本や鉛筆があります。",
+        "chinese": "桌子上有书、铅笔等。"
+      },
+      {
+        "japanese": "リンゴやバナナを買いました。",
+        "chinese": "买了苹果啊香蕉什么的。"
+      },
+      {
+        "japanese": "日本や中国に行ったことがあります。",
+        "chinese": "去过日本和中国等地。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「で」（手段・工具）",
+    "connectionRules": "名詞 + で",
+    "meaning": "表示动作的手段、方法或工具",
+    "examples": [
+      {
+        "japanese": "はさみで紙を切ります。",
+        "chinese": "用剪刀剪纸。"
+      },
+      {
+        "japanese": "鉛筆で書いてください。",
+        "chinese": "请用铅笔写。"
+      },
+      {
+        "japanese": "日本語で話しましょう。",
+        "chinese": "用日语说吧。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「に」（動作対象）",
+    "connectionRules": "人 + に",
+    "meaning": "表示动作的间接宾语（给谁/对谁）",
+    "examples": [
+      {
+        "japanese": "友達にプレゼントをあげます。",
+        "chinese": "给朋友礼物。"
+      },
+      {
+        "japanese": "先生に電話をかけました。",
+        "chinese": "给老师打了电话。"
+      },
+      {
+        "japanese": "母に手紙を書きます。",
+        "chinese": "给妈妈写信。"
+      }
+    ]
+  },
+  {
+    "title": "授受動詞「あげます」（給予）",
+    "connectionRules": "人 + に + 物 + を + あげます",
+    "meaning": "我（我方）给予他人物品",
+    "examples": [
+      {
+        "japanese": "友達に本をあげました。",
+        "chinese": "给了朋友一本书。"
+      },
+      {
+        "japanese": "母に花をあげます。",
+        "chinese": "给妈妈花。"
+      },
+      {
+        "japanese": "先生にプレゼントをあげました。",
+        "chinese": "给了老师礼物。"
+      }
+    ]
+  },
+  {
+    "title": "授受動詞「もらいます」（得到）",
+    "connectionRules": "人 + に/から + 物 + を + もらいます",
+    "meaning": "从他人那里得到物品",
+    "examples": [
+      {
+        "japanese": "友達に本をもらいました。",
+        "chinese": "从朋友那里得到了书。"
+      },
+      {
+        "japanese": "母にプレゼントをもらいました。",
+        "chinese": "从妈妈那里得到了礼物。"
+      },
+      {
+        "japanese": "先生に辞書をもらいました。",
+        "chinese": "从老师那里得到了词典。"
+      }
+    ]
+  },
+  {
+    "title": "授受動詞「くれます」（他人給予我方）",
+    "connectionRules": "人 + が/は + 私に + 物 + を + くれます",
+    "meaning": "他人给予我（我方）物品",
+    "examples": [
+      {
+        "japanese": "友達が本をくれました。",
+        "chinese": "朋友给了我书。"
+      },
+      {
+        "japanese": "彼がプレゼントをくれました。",
+        "chinese": "他给了我礼物。"
+      },
+      {
+        "japanese": "先生が辞書をくれました。",
+        "chinese": "老师给了我词典。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「に」（存在位置）",
+    "connectionRules": "場所名詞 + に",
+    "meaning": "表示人或事物的存在场所",
+    "examples": [
+      {
+        "japanese": "部屋に机があります。",
+        "chinese": "房间里有桌子。"
+      },
+      {
+        "japanese": "公園に子供がいます。",
+        "chinese": "公园里有孩子。"
+      },
+      {
+        "japanese": "学校に図書館があります。",
+        "chinese": "学校里有图书馆。"
+      }
+    ]
+  },
+  {
+    "title": "～に～があります／います（存在）",
+    "connectionRules": "場所 + に + 物/人 + が + あります/います",
+    "meaning": "某处存在某物或某人",
+    "examples": [
+      {
+        "japanese": "机の上に本があります。",
+        "chinese": "桌子上有书。"
+      },
+      {
+        "japanese": "教室に学生がいます。",
+        "chinese": "教室里有学生。"
+      },
+      {
+        "japanese": "庭に猫がいます。",
+        "chinese": "院子里有猫。"
+      }
+    ]
+  },
+  {
+    "title": "～は～にあります／います（位置説明）",
+    "connectionRules": "物/人 + は + 場所 + に + あります/います",
+    "meaning": "说明特定人事物所在的位置",
+    "examples": [
+      {
+        "japanese": "本は机の上にあります。",
+        "chinese": "书在桌子上。"
+      },
+      {
+        "japanese": "田中さんは教室にいます。",
+        "chinese": "田中在教室里。"
+      },
+      {
+        "japanese": "猫は椅子の下にいます。",
+        "chinese": "猫在椅子下面。"
+      }
+    ]
+  },
+  {
+    "title": "～が欲しいです（想要物品）",
+    "connectionRules": "名詞 + が欲しいです",
+    "meaning": "表示想要某物品",
+    "examples": [
+      {
+        "japanese": "新しいパソコンが欲しいです。",
+        "chinese": "想要新电脑。"
+      },
+      {
+        "japanese": "彼女は犬が欲しいです。",
+        "chinese": "她想要一只狗。"
+      },
+      {
+        "japanese": "何が欲しいですか。",
+        "chinese": "想要什么？"
+      }
+    ]
+  },
+  {
+    "title": "～たいです（想要做动作）",
+    "connectionRules": "动词ます形 + たいです",
+    "meaning": "表示想要做某动作",
+    "examples": [
+      {
+        "japanese": "日本へ行きたいです。",
+        "chinese": "想去日本。"
+      },
+      {
+        "japanese": "すしを食べたいです。",
+        "chinese": "想吃寿司。"
+      },
+      {
+        "japanese": "映画を見たいです。",
+        "chinese": "想看电影。"
+      }
+    ]
+  },
+  {
+    "title": "～から（原因・理由）",
+    "connectionRules": "普通形/ます形 + から",
+    "meaning": "表示原因与理由",
+    "examples": [
+      {
+        "japanese": "寒いから、窓を閉めます。",
+        "chinese": "因为冷，关上窗户。"
+      },
+      {
+        "japanese": "忙しいから、行けません。",
+        "chinese": "因为忙，去不了。"
+      },
+      {
+        "japanese": "安いから、買いました。",
+        "chinese": "因为便宜，所以买了。"
+      }
+    ]
+  },
+  {
+    "title": "て形（並列）",
+    "connectionRules": "动词て形 + 动词",
+    "meaning": "并列多个动作或状态",
+    "examples": [
+      {
+        "japanese": "昨日は買い物をして、映画を見ました。",
+        "chinese": "昨天买了东西，看了电影。"
+      },
+      {
+        "japanese": "朝ごはんを食べて、学校へ行きます。",
+        "chinese": "吃完早饭去学校。"
+      },
+      {
+        "japanese": "東京に行って、友達に会いました。",
+        "chinese": "去了东京，见了朋友。"
+      }
+    ]
+  },
+  {
+    "title": "形容詞修飾名詞",
+    "connectionRules": "い形容詞 + 名詞 / な形容詞 + な + 名詞",
+    "meaning": "形容词修饰名词的连体修饰",
+    "examples": [
+      {
+        "japanese": "これは美味しいケーキです。",
+        "chinese": "这是好吃的蛋糕。"
+      },
+      {
+        "japanese": "静かな町に住みたいです。",
+        "chinese": "想住在安静的小镇。"
+      },
+      {
+        "japanese": "高い山に登りました。",
+        "chinese": "爬了高山。"
+      }
+    ]
+  },
+  {
+    "title": "もう／まだ（完成狀態）",
+    "connectionRules": "もう + た形 / まだ + ていない",
+    "meaning": "表示动作的完成状态",
+    "examples": [
+      {
+        "japanese": "もうご飯を食べました。",
+        "chinese": "已经吃过饭了。"
+      },
+      {
+        "japanese": "まだ食べていません。",
+        "chinese": "还没吃。"
+      },
+      {
+        "japanese": "もう終わりましたか。まだです。",
+        "chinese": "已经结束了吗？还没有。"
+      }
+    ]
+  },
+  {
+    "title": "限定助詞「だけ」（只有）",
+    "connectionRules": "名詞 + だけ",
+    "meaning": "表示限定范围「只有」",
+    "examples": [
+      {
+        "japanese": "これだけください。",
+        "chinese": "只要这些。"
+      },
+      {
+        "japanese": "一人だけ来ませんでした。",
+        "chinese": "只有一个人没来。"
+      },
+      {
+        "japanese": "百円だけあります。",
+        "chinese": "只有一百日元。"
+      }
+    ]
+  },
+  {
+    "title": "限定助詞「しか」（只有・少量）",
+    "connectionRules": "名詞 + しか + 否定形",
+    "meaning": "表示「只有」，带有主观少量语气",
+    "examples": [
+      {
+        "japanese": "百円しかありません。",
+        "chinese": "只有一百日元。（不够用）"
+      },
+      {
+        "japanese": "一人しか来ませんでした。",
+        "chinese": "只有一个人来了。"
+      },
+      {
+        "japanese": "これしか食べられません。",
+        "chinese": "只能吃这个。"
+      }
+    ]
+  },
+  {
+    "title": "～てから（動作順序）",
+    "connectionRules": "动词て形 + から",
+    "meaning": "表示动作完成后的接续",
+    "examples": [
+      {
+        "japanese": "ご飯を食べてから、勉強します。",
+        "chinese": "吃完饭后再学习。"
+      },
+      {
+        "japanese": "仕事が終わってから、飲みに行きます。",
+        "chinese": "工作结束后去喝酒。"
+      },
+      {
+        "japanese": "手を洗ってから、食べてください。",
+        "chinese": "请先洗手再吃。"
+      }
+    ]
+  },
+  {
+    "title": "～あとで（之後）",
+    "connectionRules": "动词た形 + あとで / 名詞 + のあとで",
+    "meaning": "表示在某动作之后",
+    "examples": [
+      {
+        "japanese": "仕事のあとで、映画を見ます。",
+        "chinese": "工作之后看电影。"
+      },
+      {
+        "japanese": "食事をしたあとで、散歩します。",
+        "chinese": "吃完饭之后散步。"
+      },
+      {
+        "japanese": "授業のあとで、質問してください。",
+        "chinese": "课后请提问。"
+      }
+    ]
+  },
+  {
+    "title": "～まえに（之前）",
+    "connectionRules": "动词辞書形 + まえに / 名詞 + のまえに",
+    "meaning": "表示在某动作之前",
+    "examples": [
+      {
+        "japanese": "食事のまえに、手を洗います。",
+        "chinese": "饭前洗手。"
+      },
+      {
+        "japanese": "寝るまえに、歯を磨きます。",
+        "chinese": "睡觉前刷牙。"
+      },
+      {
+        "japanese": "出かけるまえに、荷物を確認します。",
+        "chinese": "出门前确认行李。"
+      }
+    ]
+  },
+  {
+    "title": "疑問詞＋も＋否定（全面否定）",
+    "connectionRules": "疑問詞 + も + 否定形",
+    "meaning": "表示全面否定",
+    "examples": [
+      {
+        "japanese": "何も食べませんでした。",
+        "chinese": "什么都没吃。"
+      },
+      {
+        "japanese": "誰も来ませんでした。",
+        "chinese": "谁都没来。"
+      },
+      {
+        "japanese": "どこへも行きませんでした。",
+        "chinese": "哪儿都没去。"
+      }
+    ]
+  },
+  {
+    "title": "～とき（時候）",
+    "connectionRules": "动词普通形/形容词普通形 + とき / 名詞 + のとき",
+    "meaning": "表示「～的时候」",
+    "examples": [
+      {
+        "japanese": "子供のとき、よく公園で遊びました。",
+        "chinese": "小时候经常在公园玩。"
+      },
+      {
+        "japanese": "日本に行くとき、このカメラを買いました。",
+        "chinese": "去日本的时候买了这个相机。"
+      },
+      {
+        "japanese": "疲れたとき、お風呂に入ります。",
+        "chinese": "累的时候泡澡。"
+      }
+    ]
+  },
+  {
+    "title": "終助詞「ね」（確認・同意）",
+    "connectionRules": "句子 + ね",
+    "meaning": "表示寻求同意与确认",
+    "examples": [
+      {
+        "japanese": "今日はいい天気ですね。",
+        "chinese": "今天天气真好呢。"
+      },
+      {
+        "japanese": "田中さんは学生ですね。",
+        "chinese": "田中是学生对吧。"
+      },
+      {
+        "japanese": "この料理、美味しいですね。",
+        "chinese": "这道菜真好吃呢。"
+      }
+    ]
+  },
+  {
+    "title": "終助詞「よ」（提醒）",
+    "connectionRules": "句子 + よ",
+    "meaning": "表示提醒、通知、劝诱",
+    "examples": [
+      {
+        "japanese": "明日は試験ですよ。",
+        "chinese": "明天是考试哦。"
+      },
+      {
+        "japanese": "ここは禁煙ですよ。",
+        "chinese": "这里禁烟哦。"
+      },
+      {
+        "japanese": "その本、面白いですよ。",
+        "chinese": "那本书很有趣哦。"
+      }
+    ]
+  },
+  {
+    "title": "～をください（請求給予）",
+    "connectionRules": "名詞 + をください",
+    "meaning": "请求给予物品",
+    "examples": [
+      {
+        "japanese": "水をください。",
+        "chinese": "请给我水。"
+      },
+      {
+        "japanese": "すみません、メニューをください。",
+        "chinese": "不好意思，请给我菜单。"
+      },
+      {
+        "japanese": "リンゴを三つください。",
+        "chinese": "请给我三个苹果。"
+      }
+    ]
+  },
+  {
+    "title": "～てください（請求動作）",
+    "connectionRules": "动词て形 + ください",
+    "meaning": "请求对方做某事",
+    "examples": [
+      {
+        "japanese": "ここに名前を書いてください。",
+        "chinese": "请在这里写上名字。"
+      },
+      {
+        "japanese": "ドアを閉めてください。",
+        "chinese": "请关门。"
+      },
+      {
+        "japanese": "もう一度言ってください。",
+        "chinese": "请再说一遍。"
+      }
+    ]
+  },
+  {
+    "title": "～ないでください（禁止請求）",
+    "connectionRules": "动词ない形 + ないでください",
+    "meaning": "请求对方不要做某事",
+    "examples": [
+      {
+        "japanese": "ここに駐車しないでください。",
+        "chinese": "请不要在这里停车。"
+      },
+      {
+        "japanese": "写真を撮らないでください。",
+        "chinese": "请不要拍照。"
+      },
+      {
+        "japanese": "タバコを吸わないでください。",
+        "chinese": "请不要吸烟。"
+      }
+    ]
+  },
+  {
+    "title": "～ながら（同時進行）",
+    "connectionRules": "动词ます形 + ながら",
+    "meaning": "表示两个动作同时进行",
+    "examples": [
+      {
+        "japanese": "音楽を聞きながら勉強します。",
+        "chinese": "一边听音乐一边学习。"
+      },
+      {
+        "japanese": "テレビを見ながらご飯を食べます。",
+        "chinese": "一边看电视一边吃饭。"
+      },
+      {
+        "japanese": "歩きながら電話をします。",
+        "chinese": "一边走路一边打电话。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「けど」（逆接・前言）",
+    "connectionRules": "句子 + けど",
+    "meaning": "表示逆接或作为引出话题的前言",
+    "examples": [
+      {
+        "japanese": "日本料理は美味しいけど、高いです。",
+        "chinese": "日本料理好吃，但是贵。"
+      },
+      {
+        "japanese": "明日は休みだけど、どこかへ行きますか。",
+        "chinese": "明天休息，你去哪里吗？"
+      },
+      {
+        "japanese": "ちょっと聞きたいことがあるんですけど。",
+        "chinese": "我有点事想问一下。"
+      }
+    ]
+  },
+  {
+    "title": "～でしょう（推測・確認）",
+    "connectionRules": "普通形 + でしょう",
+    "meaning": "表示推测或寻求确认",
+    "examples": [
+      {
+        "japanese": "明日はいい天気でしょう。",
+        "chinese": "明天会是好天气吧。"
+      },
+      {
+        "japanese": "あの人は田中さんでしょう。",
+        "chinese": "那个人是田中先生吧。"
+      },
+      {
+        "japanese": "もう大丈夫でしょう。",
+        "chinese": "已经没问题了吧。"
+      }
+    ]
+  },
+  {
+    "title": "～ています（進行・状態）",
+    "connectionRules": "动词て形 + います",
+    "meaning": "表示现在进行式或持续状态",
+    "examples": [
+      {
+        "japanese": "今、テレビを見ています。",
+        "chinese": "正在看电视。"
+      },
+      {
+        "japanese": "彼女は結婚しています。",
+        "chinese": "她已经结婚了。"
+      },
+      {
+        "japanese": "この道は曲がっています。",
+        "chinese": "这条路是弯的。"
+      }
+    ]
+  },
+  {
+    "title": "～たり～たりします（反復・列挙）",
+    "connectionRules": "动词た形 + り + 动词た形 + り + します",
+    "meaning": "列举多个代表性动作",
+    "examples": [
+      {
+        "japanese": "日曜日は映画を見たり、買い物をしたりします。",
+        "chinese": "星期天看看电影、购购物。"
+      },
+      {
+        "japanese": "休みの日は本を読んだり、音楽を聞いたりします。",
+        "chinese": "休息日读读书、听听音乐。"
+      },
+      {
+        "japanese": "旅行で写真を撮ったり、お土産を買ったりしました。",
+        "chinese": "旅行中拍了照、买了特产。"
+      }
+    ]
+  },
+  {
+    "title": "～という（介紹名稱）",
+    "connectionRules": "名詞 + という + 名詞",
+    "meaning": "介绍不熟悉的人或事物的名称",
+    "examples": [
+      {
+        "japanese": "これは「さくら」という花です。",
+        "chinese": "这是叫「樱花」的花。"
+      },
+      {
+        "japanese": "田中さんという人から電話がありました。",
+        "chinese": "有一个叫田中的人打来电话。"
+      },
+      {
+        "japanese": "私は鈴木と申します。",
+        "chinese": "我叫铃木。"
+      }
+    ]
+  },
+  {
+    "title": "～からです（陳述原因）",
+    "connectionRules": "句子 + からです",
+    "meaning": "陈述原因或理由",
+    "examples": [
+      {
+        "japanese": "どうして行かないんですか。忙しいからです。",
+        "chinese": "为什么不去？因为忙。"
+      },
+      {
+        "japanese": "日本語を勉強しています。日本が好きだからです。",
+        "chinese": "我在学日语。因为我喜欢日本。"
+      },
+      {
+        "japanese": "ここで働いています。家から近いからです。",
+        "chinese": "我在这里工作。因为离我家近。"
+      }
+    ]
+  },
+  {
+    "title": "自動詞・他動詞",
+    "connectionRules": "自動詞：が / 他動詞：を",
+    "meaning": "自动词与他动词的用法与区别",
+    "examples": [
+      {
+        "japanese": "ドアが開きました。（自動詞）",
+        "chinese": "门开了。"
+      },
+      {
+        "japanese": "私がドアを開けました。（他動詞）",
+        "chinese": "我开了门。"
+      },
+      {
+        "japanese": "電気が消えています。（自動詞・状態）",
+        "chinese": "灯灭着。"
+      }
+    ]
+  },
+  {
+    "title": "自動詞て形＋います／他動詞て形＋あります",
+    "connectionRules": "自動詞て形 + います（状態）/ 他動詞て形 + あります（結果状態）",
+    "meaning": "自动词表示自然状态，他动词表示人为动作后的结果状态",
+    "examples": [
+      {
+        "japanese": "窓が開いています。（自動詞）",
+        "chinese": "窗户开着。"
+      },
+      {
+        "japanese": "窓が開けてあります。（他動詞）",
+        "chinese": "窗户被开着。"
+      },
+      {
+        "japanese": "壁に絵が掛けてあります。",
+        "chinese": "墙上挂着画。"
+      }
+    ]
+  },
+  {
+    "title": "～をください（物品請求）※重複即可省略",
+    "connectionRules": "名詞 + をください",
+    "meaning": "请求对方给予某物品",
+    "examples": [
+      {
+        "japanese": "すみません、コーヒーをください。",
+        "chinese": "不好意思，请给我咖啡。"
+      },
+      {
+        "japanese": "その本をください。",
+        "chinese": "请给我那本书。"
+      },
+      {
+        "japanese": "切符を三枚ください。",
+        "chinese": "请给我三张票。"
+      }
+    ]
+  },
+  {
+    "title": "指示詞（こそあど言葉）",
+    "connectionRules": "これ/それ/あれ/どれ / この/その/あの/どの + 名詞",
+    "meaning": "指示事物的代词和连体词用法",
+    "examples": [
+      {
+        "japanese": "これは本です。",
+        "chinese": "这是书。"
+      },
+      {
+        "japanese": "その本は私のです。",
+        "chinese": "那本书是我的。"
+      },
+      {
+        "japanese": "どの傘があなたのですか。",
+        "chinese": "哪把伞是你的？"
+      }
+    ]
+  },
+  {
+    "title": "～くらい／～ごろ（大概時間）",
+    "connectionRules": "時間名詞 + くらい/ごろ",
+    "meaning": "表示大概的时间点或时期",
+    "examples": [
+      {
+        "japanese": "三時ごろに来てください。",
+        "chinese": "请三点左右来。"
+      },
+      {
+        "japanese": "十日くらい休みます。",
+        "chinese": "休息十天左右。"
+      },
+      {
+        "japanese": "どのくらい時間がかかりますか。",
+        "chinese": "大概需要多长时间？"
+      }
+    ]
+  },
+  {
+    "title": "形式名詞「の」（名詞化・代替）",
+    "connectionRules": "形容词/动词普通形 + の",
+    "meaning": "代替名词以避免重复，或将句子名词化",
+    "examples": [
+      {
+        "japanese": "この本は私のです。",
+        "chinese": "这本书是我的。"
+      },
+      {
+        "japanese": "美味しいのが食べたいです。",
+        "chinese": "想吃好吃的。"
+      },
+      {
+        "japanese": "彼が来るのを知っていますか。",
+        "chinese": "你知道他要来吗？"
+      }
+    ]
+  },
+  {
+    "title": "疑問詞＋か（不特定）",
+    "connectionRules": "疑問詞 + か",
+    "meaning": "表示不特定或不确切的用法",
+    "examples": [
+      {
+        "japanese": "どこかへ行きませんか。",
+        "chinese": "不去哪儿吗？"
+      },
+      {
+        "japanese": "誰かが来ました。",
+        "chinese": "有人来了。"
+      },
+      {
+        "japanese": "何か食べたいです。",
+        "chinese": "想吃点什么。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「に」（移動目的）",
+    "connectionRules": "場所 + へ + 动词ます形 + に + 行く/来る",
+    "meaning": "表示移动的目的",
+    "examples": [
+      {
+        "japanese": "図書館へ本を借りに行きます。",
+        "chinese": "去图书馆借书。"
+      },
+      {
+        "japanese": "スーパーへ買い物に行きます。",
+        "chinese": "去超市买东西。"
+      },
+      {
+        "japanese": "日本へ留学に来ました。",
+        "chinese": "来日本留学。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「に」（頻率・比例）",
+    "connectionRules": "時間名詞 + に + 回数",
+    "meaning": "表示动作的频率或比例",
+    "examples": [
+      {
+        "japanese": "週に一回、日本語を勉強しています。",
+        "chinese": "每周学一次日语。"
+      },
+      {
+        "japanese": "一日に三回薬を飲みます。",
+        "chinese": "一天吃三次药。"
+      },
+      {
+        "japanese": "月に二回映画を見ます。",
+        "chinese": "一个月看两次电影。"
+      }
+    ]
+  },
+  {
+    "title": "助詞「で」（範囲）",
+    "connectionRules": "名詞 + で",
+    "meaning": "表示叙述内容的范围",
+    "examples": [
+      {
+        "japanese": "クラスで一番背が高いです。",
+        "chinese": "班里个子最高。"
+      },
+      {
+        "japanese": "日本で一番高い山は富士山です。",
+        "chinese": "日本最高的山是富士山。"
+      },
+      {
+        "japanese": "三人の中でだれが一番若いですか。",
+        "chinese": "三个人中谁最年轻？"
+      }
+    ]
+  }
+]
