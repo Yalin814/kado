@@ -53,7 +53,7 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
     },
     h5: {
       esnextModules: [/@antmjs[\/]vantui/],
-      publicPath: '/',
+      publicPath: '/kado/',
       staticDirectory: 'static',
       output: {
         filename: 'js/[name].[hash:8].js',
